@@ -12,5 +12,6 @@ Allow: /
 
 User-agent: *
 Allow: /
+Disallow: /zoom
 
 Sitemap: https://thegreateru.com/sitemap.xml
